@@ -1,0 +1,37 @@
+[
+  {
+    "customerId": 1,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "phone": "1234567890",
+    "address": "123 Elm Street, Springfield"
+  },
+  {
+    "customerId": 2,
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "phone": "0987654321",
+    "address": "456 Oak Avenue, Springfield"
+  },
+  {
+    "customerId": 3,
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "phone": "1122334455",
+    "address": "789 Pine Road, Springfield"
+  },
+  {
+    "customerId": 4,
+    "name": "Bob Brown",
+    "email": "bob.brown@example.com",
+    "phone": "6677889900",
+    "address": "101 Maple Lane, Springfield"
+  },
+  {
+    "customerId": 5,
+    "name": "Carol White",
+    "email": "carol.white@example.com",
+    "phone": "2233445566",
+    "address": "202 Birch Street, Springfield"
+  }
+]

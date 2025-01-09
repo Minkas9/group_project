@@ -1,0 +1,32 @@
+[
+  {
+    "orderId": 1,
+    "customerId": 1,
+    "orderDate": "2025-01-05T12:00:00",
+    "status": "COMPLETED"
+  },
+  {
+    "orderId": 2,
+    "customerId": 2,
+    "orderDate": "2025-01-09T14:00:00",
+    "status": "CANCELLED"
+  },
+  {
+    "orderId": 3,
+    "customerId": 3,
+    "orderDate": "2025-01-07T16:00:00",
+    "status": "COMPLETED"
+  },
+  {
+    "orderId": 4,
+    "customerId": 1,
+    "orderDate": "2024-01-06T10:00:00",
+    "status": "CANCELLED"
+  },
+  {
+    "orderId": 5,
+    "customerId": 4,
+    "orderDate": "2025-01-06T12:00:00",
+    "status": "COMPLETED"
+  }
+]
